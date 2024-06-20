@@ -4,7 +4,7 @@ This project focuses on predicting customer churn using various machine learning
 ## Installation
 To get started with this project, clone the repository and install the necessary dependencies:
 ```
-  git clone https://github.com/yourusername/churn-prediction.git
+  git clone [https://github.com/sharathrekulara21/BankChurnPrediction]
   cd churn-prediction
   pip install pandas numpy seaborn matplotlib joblib scikit-learn imblearn
 ```
